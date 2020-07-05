@@ -1,0 +1,54 @@
+.post {
+    max-width: 32rem;
+}
+
+.post blockquote {
+	font-size: 1.121rem;
+    color: #aaa;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.post blockquote p {
+	width: 100%;
+}
+
+.post blockquote p::before {
+	content:"“";
+	font-size:5rem;
+	font-family: Inter, serif;
+	padding-right: 2rem;
+}
+
+
+.post__content {
+	color: #333;
+	text-align: justify;
+}
+
+p {
+	line-height: 2rem;
+	font-size: 1.1rem;
+	font-weight: 400;
+}
+.handle a {
+    color: #9b9b9b;
+    text-decoration: none;
+}
+.fancy {
+  animation: changecolor 4s infinite;
+  -webkit-animation: changecolor 4s infinite;
+}
+@keyframes changecolor {
+  0%   {color: #FFF;}
+  12%  {color: #999;}
+  25%  {color: #333;}
+  37% {color: #000;}
+  50% {color: #000;}
+  62% {color: #000;}
+  75% {color: #333;}
+  87% {color: #999;}
+  100% {color: #FFF;}
+}

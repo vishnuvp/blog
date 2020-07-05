@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello on /vishnuvp</title>
-    <link>http://localhost:1313/tags/hello/</link>
+    <link>http://localhost:1313/blog/tags/hello/</link>
     <description>Recent content in hello on /vishnuvp</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© vishnuvp {year}</copyright>
     <lastBuildDate>Wed, 01 Jul 2020 18:55:52 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/blog/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/blog/hello-world/</link>
+      <link>http://localhost:1313/blog/blog/hello-world/</link>
       <pubDate>Wed, 01 Jul 2020 18:55:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <guid>http://localhost:1313/blog/blog/hello-world/</guid>
       <description>Hello ¡Hola! नमस्ते Bonjour! Здравствуйте! நமஸ்காரம் ನಮಸ್ಕಾರ! നമസ്‌കാരം
  I learned that inertia is temporary. So, I have moved away from blogger. This is my new abode for rare to occasional technical blabberings and travelogues. The old blog is still up at vishnuvenukumar.blogspot.com - all posts intact; in case someone finds one of the random troubleshooter posts useful.
 I will try to move older posts here, probably during the next vacation.</description>

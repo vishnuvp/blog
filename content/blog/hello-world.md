@@ -17,4 +17,4 @@ The old blog is still up at [vishnuvenukumar.blogspot.com](https://vishnuvenukum
 
 I will try to move older posts here, probably during the next vacation.
 
-![Me Moving old posts.. phew](/img/moving-posts.gif)
+![Me Moving old posts.. phew](/blog/img/moving-posts.gif)

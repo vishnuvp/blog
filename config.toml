@@ -42,7 +42,7 @@ googleAnalytics = "UA-41294744-2"
   url = "/blog"
 
 [[menu.main]]
-  identifier = "home"
+  identifier = "about"
   name = "home"
-  title = "home"
-  url = "/blog"
+  title = "About"
+  url = "/"

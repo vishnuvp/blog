@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on /vishnuvp</title>
-    <link>http://blog.vishnuvp.in/categories/</link>
+    <link>https://vishnuvp.in/blog/categories/</link>
     <description>Recent content in Categories on /vishnuvp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© {year}</copyright>
+    <copyright>© vishnuvp {year}</copyright>
     
-	<atom:link href="http://blog.vishnuvp.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vishnuvp.in/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.vishnuvp.in/</loc>
+    <loc>https://vishnuvp.in/blog/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</loc>
+    <loc>https://vishnuvp.in/blog/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/blog/</loc>
+    <loc>https://vishnuvp.in/blog/blog/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/tags/snowflake/</loc>
+    <loc>https://vishnuvp.in/blog/tags/snowflake/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/tags/</loc>
+    <loc>https://vishnuvp.in/blog/tags/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/tags/tutorial/</loc>
+    <loc>https://vishnuvp.in/blog/tags/tutorial/</loc>
     <lastmod>2020-07-03T15:52:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.vishnuvp.in/categories/</loc>
+    <loc>https://vishnuvp.in/blog/categories/</loc>
   </url>
   
 </urlset>

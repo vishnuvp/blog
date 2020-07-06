@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on /vishnuvp</title>
-    <link>https://vishnuvp.in/blog/tags/tutorial/</link>
+    <link>http://localhost:1313/blog/tags/tutorial/</link>
     <description>Recent content in tutorial on /vishnuvp</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© vishnuvp {year}</copyright>
     <lastBuildDate>Fri, 03 Jul 2020 15:52:12 +0530</lastBuildDate>
     
-	<atom:link href="https://vishnuvp.in/blog/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/blog/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automatic Data Ingestion in Snowflake Using Snowpipe</title>
-      <link>https://vishnuvp.in/blog/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</link>
+      <link>http://localhost:1313/blog/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</link>
       <pubDate>Fri, 03 Jul 2020 15:52:12 +0530</pubDate>
       
-      <guid>https://vishnuvp.in/blog/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</guid>
+      <guid>http://localhost:1313/blog/blog/automatic-data-ingestion-in-snowflake-using-snowpipe/</guid>
       <description>Snowflake is the new buzzword in the cloud world, which offers data-warehouse-as-a-service (probably DWAAS in the cloud lingo). If you would like to read more about its capabilities and use cases around it, take a look at their site here. FYI, they have built a new SQL Engine from scratch, and the whole platform runs on AWS infrastructure. It is a technological irony that Snowflake performs better (in my opinion) than Amazon Redshift in many ways.</description>
     </item>
     

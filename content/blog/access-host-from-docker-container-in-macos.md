@@ -1,5 +1,5 @@
 ---
-title: "Access Host From Docker Container in Macos"
+title: "Access Host From Docker Container in MacOS"
 date: 2020-07-07T13:09:08+05:30
 slug: ""
 description: ""

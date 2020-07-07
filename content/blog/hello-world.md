@@ -4,7 +4,7 @@ date: 2020-07-01T18:55:52+05:30
 slug: ""
 description: ""
 keywords: [hello, ]
-draft: true
+draft: false
 tags: [hello, first]
 math: false
 toc: false
@@ -17,4 +17,6 @@ The old blog is still up at [vishnuvenukumar.blogspot.com](https://vishnuvenukum
 
 I will try to move older posts here, probably during the next vacation.
 
-![Me Moving old posts.. phew](/blog/img/moving-posts.gif)
+The blog posts will serve as a default documentation resource for me. So, please excuse if you see unrelated posts in sequence.
+
+![Me Moving old posts.. phew](/img/moving-posts.gif)

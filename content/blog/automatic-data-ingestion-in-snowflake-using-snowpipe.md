@@ -154,12 +154,12 @@ show pipes;
 
 This command will show the details of all Snowpipes created under the current database and schema. Copy the value under the `notification_channel` column for the `USERDB_PIPE` we just created. 
 
-![Show pipes result](/blog/img/pipe-arn.png)
+![Show pipes result](/img/pipe-arn.png)
 
 Now, login back to the S3 console and choose the source bucket's properties. Choose Events > Add Notification. 
 Under the events section, check the 'All Object creation events' checkbox. Paste the `notification_channel` value in the `SQS queue ARN` field and Save. 
 
-![S3 Event Configuration](/blog/img/sqs.png)
+![S3 Event Configuration](/img/sqs.png)
 
 Phew, You are done!
 

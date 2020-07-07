@@ -3,9 +3,9 @@ title: "Snowflake JSON Capabilities"
 date: 2020-07-06T22:23:25+05:30
 slug: ""
 description: ""
-keywords: []
-draft: true
-tags: []
+keywords: [snowflake, JSON, ]
+draft: false
+tags: [snowflake, JSON, article]
 math: false
 toc: false
 ---

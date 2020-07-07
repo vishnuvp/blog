@@ -1,5 +1,5 @@
 copyright = "© vishnuvp {year}"
-baseURL = "https://vishnuvp.in/blog"
+baseURL = "https://blog.vishnuvp.in"
 title = "/vishnuvp"
 theme = "codex"
 googleAnalytics = "UA-41294744-2"
@@ -39,7 +39,7 @@ googleAnalytics = "UA-41294744-2"
   identifier = "blog"
   name = "blog"
   title = "Blog"
-  url = "/blog"
+  url = "/blog/"
 
 [[menu.main]]
   identifier = "about"

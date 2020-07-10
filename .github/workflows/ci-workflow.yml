@@ -23,12 +23,14 @@ jobs:
           extended: true
 
       - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --gc --minify
+        run: |
+          hugo --gc --minify
+          echo "blog.vishnuvp.in" > ./public/CNAME
+
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.TOKEN }}
           publish_dir: ./public
+          keep_files: true

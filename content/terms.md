@@ -1,7 +1,7 @@
 ---
 title: "Terms"
 date: 2020-07-14T13:50:42+05:30
-draft: true
+draft: false
 ---
 
 **Terms & Conditions**

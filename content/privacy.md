@@ -22,7 +22,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Google Analytics](https://www.google.com/intl/en/policies/privacy/)
 
 **Log Data**
 

@@ -3,9 +3,9 @@ title: "Automatic Data Ingestion in Snowflake Using Snowpipe"
 date: 2020-07-03T15:52:12+05:30
 slug: ""
 description: ""
-keywords: [snowpipe, AWS, S3]
+keywords: [snowpipe, AWS, S3, snowpipe, automatic-data-loading, automatic-data-ingestion, cloud-datawarehouse, data-lake, SQS, SQL, snowsql, external-stage, etl, extract, load, transform, data-pipeline, dwaas, cloud]
 draft: false
-tags: [snowflake, tutorial]
+tags: [snowflake, snowpipe, tutorial, tech]
 math: false
 toc: true
 ---

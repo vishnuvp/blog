@@ -3,9 +3,9 @@ title: "Access Host From Docker Container in MacOS"
 date: 2020-07-07T13:09:08+05:30
 slug: ""
 description: ""
-keywords: [docker, gateway, docker-for-mac]
+keywords: [docker, gateway, docker-for-mac, micro-services, docker-networking, macos, apple]
 draft: false
-tags: [docker, gateway, docker-for-mac]
+tags: [docker, gateway, docker-for-mac, tech]
 math: false
 toc: false
 ---

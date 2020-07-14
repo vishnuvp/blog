@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2020-07-01T18:55:52+05:30
 slug: ""
 description: ""
-keywords: [hello, ]
+keywords: [hello, intro]
 draft: false
 tags: [hello, first]
 math: false

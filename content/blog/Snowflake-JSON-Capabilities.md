@@ -3,7 +3,7 @@ title: "Snowflake JSON Capabilities"
 date: 2020-07-06T22:23:25+05:30
 slug: ""
 description: ""
-keywords: [snowflake, JSON, ]
+keywords: [snowflake, JSON, cloud-datawarehouse, AWS, S3, tech]
 draft: false
 tags: [snowflake, JSON, article]
 math: false
